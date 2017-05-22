@@ -10,7 +10,7 @@
 最大限度地从原始数据中提取特征以供算法和模型使用
 
 ## 特征工程在ML中
-![ML flow](http://123 "ML flow")
+![ML flow](https://raw.githubusercontent.com/daiqsh/Data-Science-Learning/master/big-team-sharing/2017-6-1-Feature-Engineering/ML_flow.png "ML flow")
 
 ## 预处理
 1. 去重：去掉重复的数据
