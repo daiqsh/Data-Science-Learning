@@ -21,6 +21,8 @@
 ![ML flow](https://raw.githubusercontent.com/daiqsh/Data-Science-Learning/master/big-team-sharing/2017-6-1-Feature-Engineering/ML_flow.png "ML flow")
 
 ## 预处理
+(http://www.jianshu.com/p/95d6d04e0c9e, http://bluewhale.cc/2016-11-20/use-scikit-learn-to-preprocess-the-data.html, http://sklearn.lzjqsdd.com/modules/preprocessing.html)
+
 1. 去重：去掉重复的数据
 2. 过滤：把反常值（极高/极低）用平滑的值代替
 3. 标准化：把数据缩放到同样的范围
